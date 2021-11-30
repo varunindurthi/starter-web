@@ -8,4 +8,6 @@ Sample website with plenty of files for demos
 
 
 ### Deployment
+
 ### How to contribute
+No contribtuions required. It is a sample repo
